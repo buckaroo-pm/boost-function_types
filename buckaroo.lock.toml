@@ -1,4 +1,4 @@
-manifest = "f932d7b8a90376711a58d7c220c4705b7180920fdce286f70c6a4bf4eeae3e54"
+manifest = "49b16af0435c48191c47d1d7d848e10b153fc346a4a3809bf2a3494c582c0c45"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-config"
@@ -22,20 +22,20 @@ target = "//:type-traits"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
-revision = "f2f2d0d85496b72eeff1186518deb7e23c757bfd"
+revision = "4392ed19b232ed2dde7623843d7e30ef669d860e"
 
 [lock."github.com/buckaroo-pm/boost-detail"]
 versions = [ "branch=master" ]
-revision = "94aa5268c1a74468be94b40afd730aea1730ceab"
+revision = "e8b834a93f7ba935aa63a3d6690804f3bd2b0963"
 
 [lock."github.com/buckaroo-pm/boost-mpl"]
 versions = [ "branch=master" ]
-revision = "6493fcda0f5cd2ee595346ca48ff495db9fa74d5"
+revision = "a1873af9c1d31fb8ec2a87482b6bb9729439b4ac"
 
 [lock."github.com/buckaroo-pm/boost-preprocessor"]
 versions = [ "branch=master" ]
-revision = "a70772bbd315eb597c3f1e359af742dde46a6f37"
+revision = "4d01d0f9c0ae3ae3cd20e3cbfddbc9909ce8e064"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
-revision = "a34caf51f831ffb77d1057c668b5db620863d191"
+revision = "4d0a507c0d1a1011c5a98d57acc9f6b755141e4f"
